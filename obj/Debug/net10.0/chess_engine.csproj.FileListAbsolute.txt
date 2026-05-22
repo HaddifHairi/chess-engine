@@ -1,0 +1,15 @@
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.AssemblyInfoInputs.cache
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.AssemblyInfo.cs
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.csproj.CoreCompileInputs.cache
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.sourcelink.json
+/Users/muhammadhaddif/chess_engine/bin/Debug/net10.0/chess_engine
+/Users/muhammadhaddif/chess_engine/bin/Debug/net10.0/chess_engine.deps.json
+/Users/muhammadhaddif/chess_engine/bin/Debug/net10.0/chess_engine.runtimeconfig.json
+/Users/muhammadhaddif/chess_engine/bin/Debug/net10.0/chess_engine.dll
+/Users/muhammadhaddif/chess_engine/bin/Debug/net10.0/chess_engine.pdb
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.dll
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/refint/chess_engine.dll
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.pdb
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/chess_engine.genruntimeconfig.cache
+/Users/muhammadhaddif/chess_engine/obj/Debug/net10.0/ref/chess_engine.dll
